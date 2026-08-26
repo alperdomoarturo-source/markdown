@@ -6,9 +6,6 @@
 
 - Nombre:
 - Nombre:
-- Nombre:
-- Nombre:
-- Nombre:
 
 ## 3. Requerimientos Funcionales
 
@@ -34,7 +31,7 @@
 ### RF-02 - Consulta de tutorías disponibles
 
 #### Resumen
-Permite a los estudiantes buscar y consultar las tutorías académicas que se encuentran disponibles según una fecha específica y, opcionalmente, filtrar por asignatura o tema de interés.
+Permite a los estudiantes buscar y consultar las tutorías académicas que se encuentran disponibles para una fecha específica, con la opción de filtrar por asignatura o tema de interés.
 
 #### Entradas
 
